@@ -20,8 +20,9 @@ When I’m not glued to my laptop, I enjoy playing basketball and keeping active
 ## 💡 Projects I’m Working On
 Here are a few of the projects I’ve been working on. Feel free to check them out!
 
-- **Project 1:** [Link to Project](#)  
-  A quick description of the project. What did I build and why? What was my biggest takeaway from it?
+- **BlueTurle:** [Link to Project](https://joinlaunchpad.com/#/projects/5132/blueturtle)  
+  What is the aim of Blueturtle?
+Our team is passionate about tackling deepfakes, as they threaten trust and spread misinformation. We’re focused on creating tools to detect these manipulations and frauds , educating the public, and pushing for responsible policies. Together, we aim to protect the integrity of information and help people navigate the digital world more safely.
 
 - **Project 2:** [Link to Project](#)  
   Another cool project I’ve been working on. More details here about the tech I used and how I solved problems.
