@@ -34,7 +34,5 @@ I’m always up for feedback or suggestions, so don’t hesitate to leave a comm
 - **Email:** [shubhwork95@gmail.com](mailto:shubhwork95@gmail.com)
 - **Instagram:** [@shubhmndal](https://www.instagram.com/shubhmndal/)
 
-animate_print("hello world")
-
 Thanks for stopping by, and I hope you enjoy exploring my work! 🚀
 
