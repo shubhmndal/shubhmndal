@@ -30,7 +30,7 @@ I’m always up for feedback or suggestions, so don’t hesitate to leave a comm
 
 ## 📬 Let’s Connect!
 - **LinkedIn:** [@shubhmndal](https://www.linkedin.com/in/shubhmndal/)
-- **Email:** [shubhwork95@gmail.com](shubhwork95@gmail.com)
+- **Email:** [shubhwork95@gmail.com](mailto:shubhwork95@gmail.com)
 - **Twitter:** [@shubhmndal](https://www.instagram.com/shubhmndal/)
 
 Thanks for stopping by, and I hope you enjoy exploring my work! 🚀
