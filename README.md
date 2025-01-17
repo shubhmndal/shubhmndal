@@ -7,20 +7,16 @@ Hey there! I’m **Shubh Mandal**—a coder with a love for innovation. I’m al
 
 When I’m not glued to my laptop, I enjoy playing basketball and keeping active. I’m also gaining valuable experience through internships, where I get hands-on knowledge and apply what I’ve learned in real-world situations.
 
-## 🛠️ The Tech I Love
-Here are some of the technologies I’m working with:
+## 📚 What I'm Currently Learning
 
 - **Languages:** Python, JavaScript, Java, C++
 - **Web Development:** HTML, CSS, React
 - **Tools & Frameworks:** Git, Node.js, Express, Django
 - **Databases:** MySQL, MongoDB
-- **Other Cool Stuff:** Docker, Firebase, Machine Learning
-
-## 📚 What I'm Currently Learning
 - **Machine Learning & AI:** Trying to understand how machines think and learn.
 - **Web Development:** Getting deeper into **React** and **Node.js**.
-- **Algorithms & Data Structures:** Sharpening my problem-solving skills.
-
+- **Algorithms & Data Structures:** Sharpening my problem-solving skills
+  
 ## 💡 Projects I’m Working On
 Here are a few of the projects I’ve been working on. Feel free to check them out!
 
@@ -34,8 +30,8 @@ I’m always up for feedback or suggestions, so don’t hesitate to leave a comm
 
 ## 📬 Let’s Connect!
 - **LinkedIn:** [@shubhmndal](https://www.linkedin.com/in/shubhmndal/)
-- **Email:** [email@example.com](mailto:email@example.com)
-- **Twitter:** [@ShubhMandal](#)
+- **Email:** [shubhwork95@gmail.com](shubhwork95@gmail.com)
+- **Twitter:** [@shubhmndal](https://www.instagram.com/shubhmndal/)
 
 Thanks for stopping by, and I hope you enjoy exploring my work! 🚀
 
