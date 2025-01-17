@@ -24,7 +24,7 @@ Here are a few of the projects I’ve been working on. Feel free to check them o
   What is the aim of Blueturtle?
 Our team is passionate about tackling deepfakes, as they threaten trust and spread misinformation. We’re focused on creating tools to detect these manipulations and frauds, educating the public, and pushing for responsible policies. Together, we aim to protect the integrity of information and help people navigate the digital world more safely.
 
-- **Project 2:** [Link to Project](#)  
+- **Tech Chads:** [Link to Project](www.techchads.wordpress.com)  
   Another cool project I had worked on. At he age of 14, I made a blog website sharing post regarding automobiles and space(astrophysics) to educate about these topics worldwide
 
 I’m always up for feedback or suggestions, so don’t hesitate to leave a comment or connect with me!
