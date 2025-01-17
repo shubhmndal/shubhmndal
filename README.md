@@ -33,7 +33,7 @@ Here are a few of the projects I’ve been working on. Feel free to check them o
 I’m always up for feedback or suggestions, so don’t hesitate to leave a comment or connect with me!
 
 ## 📬 Let’s Connect!
-- **LinkedIn:** https://www.linkedin.com/in/shubhmndal/
+- **LinkedIn:** [@shubhmndal](https://www.linkedin.com/in/shubhmndal/)
 - **Email:** [email@example.com](mailto:email@example.com)
 - **Twitter:** [@ShubhMandal](#)
 
