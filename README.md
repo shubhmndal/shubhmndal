@@ -20,7 +20,7 @@ When I’m not glued to my laptop, I enjoy playing basketball and keeping active
 ## 💡 Projects I’m Working On
 Here are a few of the projects I’ve been working on. Feel free to check them out!
 
-- **BlueTurle:** [Link to Project](https://joinlaunchpad.com/#/projects/5132/blueturtle)  
+- **BlueTurtle:** [Link to Project](https://joinlaunchpad.com/#/projects/5132/blueturtle)  
   What is the aim of Blueturtle?
 Our team is passionate about tackling deepfakes, as they threaten trust and spread misinformation. We’re focused on creating tools to detect these manipulations and frauds, educating the public, and pushing for responsible policies. Together, we aim to protect the integrity of information and help people navigate the digital world more safely.
 
