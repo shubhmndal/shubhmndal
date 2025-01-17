@@ -22,17 +22,17 @@ Here are a few of the projects I’ve been working on. Feel free to check them o
 
 - **BlueTurle:** [Link to Project](https://joinlaunchpad.com/#/projects/5132/blueturtle)  
   What is the aim of Blueturtle?
-Our team is passionate about tackling deepfakes, as they threaten trust and spread misinformation. We’re focused on creating tools to detect these manipulations and frauds , educating the public, and pushing for responsible policies. Together, we aim to protect the integrity of information and help people navigate the digital world more safely.
+Our team is passionate about tackling deepfakes, as they threaten trust and spread misinformation. We’re focused on creating tools to detect these manipulations and frauds, educating the public, and pushing for responsible policies. Together, we aim to protect the integrity of information and help people navigate the digital world more safely.
 
 - **Project 2:** [Link to Project](#)  
-  Another cool project I’ve been working on. More details here about the tech I used and how I solved problems.
+  Another cool project I had worked on. At he age of 14, I made a blog website sharing post regarding automobiles and space(astrophysics) to educate about these topics worldwide
 
 I’m always up for feedback or suggestions, so don’t hesitate to leave a comment or connect with me!
 
 ## 📬 Let’s Connect!
 - **LinkedIn:** [@shubhmndal](https://www.linkedin.com/in/shubhmndal/)
 - **Email:** [shubhwork95@gmail.com](mailto:shubhwork95@gmail.com)
-- **Twitter:** [@shubhmndal](https://www.instagram.com/shubhmndal/)
+- **Instagram:** [@shubhmndal](https://www.instagram.com/shubhmndal/)
 
 Thanks for stopping by, and I hope you enjoy exploring my work! 🚀
 
